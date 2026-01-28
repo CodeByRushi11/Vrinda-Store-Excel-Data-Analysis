@@ -15,9 +15,6 @@ This project focuses on analyzing retail sales data using Microsoft Excel to ide
 - Customer gender and age group analysis
 - Regional sales performance comparison
 
-## 📈 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
-
 ## 🔍 Key Insights
 - Women customers contributed more to total sales
 - Highest sales observed in the adult age group
