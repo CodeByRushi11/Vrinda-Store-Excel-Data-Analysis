@@ -14,6 +14,10 @@ This project focuses on analyzing retail sales data using Microsoft Excel to ide
 - Monthly and category-wise sales analysis
 - Customer gender and age group analysis
 - Regional sales performance comparison
+ 
+## 📈 Dashboard Preview
+![Dashboard](https://github.com/CodeByRushi11/Vrinda-Store-Excel-Data-Analysis/blob/main/Dashboard%20Screenshot.png)
+
 
 ## 🔍 Key Insights
 - Women customers contributed more to total sales
